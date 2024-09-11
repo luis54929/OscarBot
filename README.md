@@ -59,9 +59,6 @@ oscarbot/
 ├── main.py            # Script principal para ejecutar OscarBot
 ├── train.py           # Script para entrenar el modelo de OscarBot
 ├── utils.py           # Funciones de utilidad
-├── database.sqlite3   # Base de datos para almacenar conversaciones
-├── trained_model.pkl  # Modelo entrenado serializado de OscarBot
-├── training_data.csv  # Datos de entrenamiento para OscarBot
 ├── requirements.txt   # Dependencias del proyecto
 └── README.md          # Este archivo
 ```
