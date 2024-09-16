@@ -18,7 +18,7 @@ Este proyecto implementa OscarBot, un chatbot de Inteligencia Artificial persona
 
 1. Clone este repositorio:
    ```
-   git clone https://github.com/BancoOccidente/oscarbot.git
+   git clone https://github.com/luis54929/OscarBot
    cd oscarbot
    ```
 
